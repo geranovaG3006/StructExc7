@@ -1,6 +1,8 @@
 # StructExc7
 Informatics Coursebook, Structure, p143
 
+// Да се напише програма, която създава структура People с полета first_name, last_name и egn, указващи името, фамилията и ЕГН на човек. Да се въведе цяло число n и след него n на брой данни от тип People. Да се изведат данните, сортирани по пържо име на човека
+
 #include<iostream>
 using namespace std;
 struct People
